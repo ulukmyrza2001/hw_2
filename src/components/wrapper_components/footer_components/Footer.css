@@ -1,0 +1,15 @@
+.footer{
+    padding: 1rem;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: rgb(23, 27, 32);
+    border-radius: 5px;
+}
+.logoFooter{
+    width: 200px;
+    height: 100px;
+}
+.link{
+    color: rgb(142, 159, 184);
+}
